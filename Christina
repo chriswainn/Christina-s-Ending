@@ -1,0 +1,43 @@
+\documentclass[11pt,openany]{book}
+
+\title{}
+\usepackage{pagenote}
+\renewcommand{\thepagenote}{\thechapter-\arabic{pagenote}}
+
+\renewcommand\notenumintext[1]{\space{\footnotesize\sffamily[FN-#1]}}
+
+\renewcommand\notenuminnotes[1]{{\sffamily[FN-#1] }}
+
+\renewcommand{\notesname}{End Notes}
+
+\makepagenote
+
+\usepackage{hyperref}
+
+\begin{document}
+
+\chapter{Master Ending}
+
+Milo turns to the sky, praying for any God to buy him a martini and get him the hell out of Berkeley. No Gods come. 
+
+One friendly soul with a swastika embroidered on his uniform turns to Milo and whispers, “Follow me, Milo. We must go to the the Campanile!” 
+
+The two quickly race past South Hall to the bottom of the campanile, only to find Oski blocking the doors. The perverted looking bear mascot opens his mouth to speak. “Hey, you can’t--”
+
+The Neo-nazi clocks Oski in the face before he has the chance to continue, and the two zoom right by him, barricading the doors behind them. Once locked inside, Milo and the Aryan looking man begin their quick ascent to the top of the monolithic bell tower--it is their last hope. 
+
+\chapter{Meanwhile...}
+
+The crowd has broken past the crowd of bigots and racists at this point (as it turns out, Milo’s supporters were all talk no game), and swarm in the thousands at the foot of the Campanile. One scrawny kid with a “Co-exist” badge and weed socks yells above the crowd. “WAIT! I have a friend we can call to open this door! You’ll love him, he’s totally green!” 
+\\
+\\His call is met by the elated cheers of the members of CALPirg. The kid blows a pink whistle.
+
+\chapter{The Green Machine}
+
+Meanwhile, Milo and the Neo-Nazi have gotten to the top of the tower, just as the clock chimes 4PM. Milo shivers and covers his ears, looking off into the distance. To Milo’s surprise, the rumbling continues after the bells stop ringing. Far away, a huge, extremely ripped man is hopping over buildings towards the Campanile. 
+
+“Scheisse, it’s the Hulk!” the Neo-Nazi mutters under his breath.
+
+A hundred or so feet below, the scrawny kid with the weed socks says two words: “Hulk! Smash!” 
+
+\end{document}
